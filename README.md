@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#  Badges & Certificates 
+##  Badges & Certificates 
 
 <details>
   <summary>
