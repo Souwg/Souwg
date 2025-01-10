@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <details>
   <summary>
-  <b> CISCO  </b>
-In progress...
+  
+<img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/cisco_button_icon_151865.png" alt="html" height="40" style="vertical-align:top; margin:4px">
 
 |Cybersecurity Analyst Career Path | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cybersecurity_pathway_27.png" alt="Cybersecurity Analyst Career Path" width="55" height="55">  --> |
 |-----|-----|
@@ -29,7 +29,7 @@ In progress...
 
 | Introduction to Cybersecurity | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_cybersecurity_16.png" alt="Introduccion a la Ciberseguridad" width="55" height="55">  --> | Ethical Hacker | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/3d237b16-c5c6-4650-918d-6b7b6dfe6ddd.png" alt="Ethical Hacker" width="55" height="55">  --> |
 |----------|----------|----------|----------|
-| Cybersecurity Administration | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cybersecurity_administration_3.png" title="Análisis de amenazas" alt="Análisis de amenazas" width="55" height="55"/> --> | Introduction to Ethical Hacking and Penetration Testing | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/c929ed57-ee07-44ad-a2d4-7229fc85e043.png" title="Introduction to Ethical Hacking and Penetration Testing" alt="Introduction to Ethical Hacking and Penetration Testing" width="55" height="55"/> --> |
+| Cybersecurity Administration | <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cybersecurity_administration_3.png" title="Análisis de amenazas" alt="Análisis de amenazas" width="55" height="55"/>  | Introduction to Ethical Hacking and Penetration Testing | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/c929ed57-ee07-44ad-a2d4-7229fc85e043.png" title="Introduction to Ethical Hacking and Penetration Testing" alt="Introduction to Ethical Hacking and Penetration Testing" width="55" height="55"/> --> |
 | Threat Analysis | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/threat_analysis_4.png" title="Administración de Ciberseguridad" alt="Administración de Ciberseguridad" width="55" height="55"/> --> | Planning and Scoping a Pentest Assessment | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/9e20fed5-aa76-4202-9903-ef71db5cbc24.png" title="Planning and Scoping a Pentest Assessment" alt="Planning and Scoping a Pentest Assessment" width="55" height="55"/>  --> |
 | System Safeguards | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/system_safeguards_5.png" title="Salvaguardias del sistema" alt="Salvaguardias del sistema" width="55" height="55"/>  --> | Information Gathering and Vulnerability Scanning | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/2356c61c-147f-48ab-acd2-cf0c9ed70aae.png" title="Information Gathering and Vulnerability Scanning" alt="Information Gathering and Vulnerability Scanning" width="55" height="55"/>  --> |
 | Network Defense | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/network_defense_6.png" title="Defensa de la Red" alt="Defensa de la Red" width="55" height="55"/> --> | Social Engineering Attacks | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/42172e76-b06c-425c-a159-fab770abd18b.png" title="Social Engineering Attacks" alt="Social Engineering Attacks" width="55" height="55"/>  --> |
